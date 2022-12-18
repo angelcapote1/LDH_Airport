@@ -51,4 +51,5 @@ public class PassengerTest {
     void passengerFlight() {
         Assertions.assertEquals("Passenger Angel with identifier: 1234 from EE", pasajero.toString());
     }
+    
 }
